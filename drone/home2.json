@@ -1,0 +1,14 @@
+{
+    "drone1": {
+      "latitude": 26.9887067,
+      "longitude": 80.8985996
+    },
+    "drone2": {
+      "latitude": 26.9886684,
+      "longitude": 80.8903170
+    },
+    "drone3": {
+      "latitude": 26.9890508,
+      "longitude": 80.8832359
+    }
+}
